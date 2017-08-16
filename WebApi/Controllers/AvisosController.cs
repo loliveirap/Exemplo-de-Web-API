@@ -12,6 +12,8 @@ namespace WebApi.Controllers
     public class AvisosController : ApiController
     {
         private readonly AlunoRepositorio _servicoAluno = new AlunoRepositorio();
+        
+        //public HttpResponseMessage GetAluno(string id)
         public AvisosModel GetAluno(string id)
         {
             var aluno = _servicoAluno.PesquisarPorCodigoAvisos(id);
@@ -23,7 +25,7 @@ namespace WebApi.Controllers
                 _avisos.erro = Request.CreateResponse(HttpStatusCode.NotFound).ToString();
                 //throw new HttpResponseException(Request.CreateResponse(HttpStatusCode.NotFound));
             }
-
+            //return Request.CreateResponse(HttpStatusCode.OK, _avisos);
             return _avisos;
         }
     }
