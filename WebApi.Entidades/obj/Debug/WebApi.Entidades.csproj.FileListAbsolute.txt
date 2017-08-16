@@ -1,0 +1,5 @@
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApi.Entidades\bin\Debug\WebApi.Entidades.dll
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApi.Entidades\bin\Debug\WebApi.Entidades.pdb
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApi.Entidades\obj\Debug\WebApi.Entidades.csprojResolveAssemblyReference.cache
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApi.Entidades\obj\Debug\WebApi.Entidades.dll
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApi.Entidades\obj\Debug\WebApi.Entidades.pdb
