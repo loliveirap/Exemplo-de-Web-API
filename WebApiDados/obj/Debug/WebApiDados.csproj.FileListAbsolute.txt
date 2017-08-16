@@ -1,0 +1,9 @@
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\bin\Debug\WebApiDados.dll
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\bin\Debug\WebApiDados.pdb
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\bin\Debug\Dapper.dll
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\bin\Debug\WebApi.Entidades.dll
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\bin\Debug\WebApi.Entidades.pdb
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\bin\Debug\Dapper.xml
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\obj\Debug\WebApiDados.csprojResolveAssemblyReference.cache
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\obj\Debug\WebApiDados.dll
+F:\Projetos\Team Foundation\Unip.TILyceum.Suporte\Lyceum.WebApi\WebApiDados\obj\Debug\WebApiDados.pdb
