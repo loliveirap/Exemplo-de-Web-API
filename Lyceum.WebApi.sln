@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentacao", "Apresentacao", "{A812FDB5-6DAE-499C-AAC7-734FA329B2E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{85F47B90-D772-4B86-9EA6-BE14415777D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestrutura", "Infraestrutura", "{AB606BF4-047A-47B8-90F7-684E078A6EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Entidades", "WebApi.Entidades\WebApi.Entidades.csproj", "{52C8DAF9-0891-4EB5-B75F-AB5E3E8AEE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{DCCCDE81-0E67-484D-9E89-BA560AF5F2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDados", "WebApiDados\WebApiDados.csproj", "{4E01B695-AFCD-43B3-8AD7-CFB3269041FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C8DAF9-0891-4EB5-B75F-AB5E3E8AEE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C8DAF9-0891-4EB5-B75F-AB5E3E8AEE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C8DAF9-0891-4EB5-B75F-AB5E3E8AEE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C8DAF9-0891-4EB5-B75F-AB5E3E8AEE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCCDE81-0E67-484D-9E89-BA560AF5F2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCCDE81-0E67-484D-9E89-BA560AF5F2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCCDE81-0E67-484D-9E89-BA560AF5F2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCCDE81-0E67-484D-9E89-BA560AF5F2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E01B695-AFCD-43B3-8AD7-CFB3269041FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E01B695-AFCD-43B3-8AD7-CFB3269041FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E01B695-AFCD-43B3-8AD7-CFB3269041FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E01B695-AFCD-43B3-8AD7-CFB3269041FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{52C8DAF9-0891-4EB5-B75F-AB5E3E8AEE03} = {85F47B90-D772-4B86-9EA6-BE14415777D2}
+		{DCCCDE81-0E67-484D-9E89-BA560AF5F2E2} = {A812FDB5-6DAE-499C-AAC7-734FA329B2E7}
+		{4E01B695-AFCD-43B3-8AD7-CFB3269041FA} = {AB606BF4-047A-47B8-90F7-684E078A6EF6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.16.74.243:8080/tfs/ti%20lyceum
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebApi.Entidades\\WebApi.Entidades.csproj
+		SccProjectTopLevelParentUniqueName1 = Lyceum.WebApi.sln
+		SccProjectName1 = WebApi.Entidades
+		SccLocalPath1 = WebApi.Entidades
+		SccProjectUniqueName2 = WebApi\\WebApi.csproj
+		SccProjectTopLevelParentUniqueName2 = Lyceum.WebApi.sln
+		SccProjectName2 = WebApi
+		SccLocalPath2 = WebApi
+		SccProjectUniqueName3 = WebApiDados\\WebApiDados.csproj
+		SccProjectTopLevelParentUniqueName3 = Lyceum.WebApi.sln
+		SccProjectName3 = WebApiDados
+		SccLocalPath3 = WebApiDados
+	EndGlobalSection
+EndGlobal
